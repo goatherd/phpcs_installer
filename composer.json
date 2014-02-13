@@ -22,7 +22,7 @@
   "extra": {
      "class": "Goatherd\\Phpcs\\Installer",
      "branch-alias": {
-       "dev-master": "2.x-dev"
+       "dev-phpcs2": "2.x-dev"
      }
   },
   "autoload": {
